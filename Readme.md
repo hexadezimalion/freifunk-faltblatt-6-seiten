@@ -69,7 +69,7 @@ Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-R
 * Chat        irc://irc.hackint.net/ffhh
 * Facebook     /FreifunkHamburg
 * Mail       freifunk@hamburg.ccc.de
-* Dieses Faltblatt    http://git.io/vtlhj (muss noch angepasst werden)
+* Dieses Faltblatt    http://git.io/vt4YZ
 
 **Abschnitt 3 (Front)**
 ---
