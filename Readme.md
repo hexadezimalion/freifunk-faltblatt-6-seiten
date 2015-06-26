@@ -1,4 +1,4 @@
-Diese Vorlage ist für die Community Kiel angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+Diese Vorlage ist für die Community Hamburg angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
 
 # Anpassen an deine Community
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
@@ -65,10 +65,11 @@ Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-R
 ---
 **Mitmachen - Austauschen**
 
-* Webseite      http://kiel.freifunk.net/
-* Online Chat   auf unserer Webseite!
-* Mail          freifunk@in-kiel.de
-* Twitter       @ff_kiel
+* Webseite    http://hamburg.freifunk.net
+* Chat        irc://irc.hackint.net/ffhh
+* Facebook     /FreifunkHamburg
+* Mail       freifunk@hamburg.ccc.de
+* Dieses Faltblatt    http://git.io/vtlhj (muss noch angepasst werden)
 
 **Abschnitt 3 (Front)**
 ---
